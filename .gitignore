@@ -1,0 +1,9 @@
+/.idea
+/scala
+*.swp
+*.iml
+build
+dependency-reduced-pom.xml
+.DS_Store
+target/
+
